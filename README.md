@@ -1,2 +1,2 @@
 # Myrepo
-MySampleRepo created by vishnu
+MySampleRepo
